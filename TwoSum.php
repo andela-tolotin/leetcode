@@ -1,5 +1,4 @@
 class Solution {
-
     /**
      * @param Integer[] $nums
      * @param Integer $target
@@ -16,6 +15,4 @@ class Solution {
         }
         return $indexes;
     }
-    
-    
 }
